@@ -1,0 +1,4 @@
+interface:
+  display_name: "专属学业导师"
+  short_description: "安排课程学习与日程，整理理工科 Obsidian 图文笔记并维护 Notion 复习索引"
+  default_prompt: "使用 $canvas-notion-study 恢复我的学习情况，检查本周任务，并建议现在先学什么。"

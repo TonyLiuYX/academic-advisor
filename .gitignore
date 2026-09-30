@@ -1,0 +1,9 @@
+learning-data/
+skill/work/
+development/work/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.tooling/
+.releases/
